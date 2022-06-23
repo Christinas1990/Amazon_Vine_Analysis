@@ -8,12 +8,6 @@ This will allow the companies to test their products on potenial customers their
 
 
 
-or this part of the Challenge, you’ll write a report that summarizes the analysis you performed in Deliverable 2.
-
-The report should contain the following:
-
-Overview of the analysis: Explain the purpose of this analysis.
-
 Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
 How many Vine reviews and non-Vine reviews were there?
