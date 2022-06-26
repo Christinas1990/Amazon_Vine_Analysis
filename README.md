@@ -31,8 +31,14 @@ There were 38% of the views that were 5 stars and 54% non-vine review that were 
 
 ## Summary 
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. 
-Use the results of your analysis to support your statement. 
-Then, provide one additional analysis that you could do with the dataset to support your statement.
+I do not see any positive bias for review in the Vine program. There are only 170 Vine review among total votes. 
 
+<img width="953" alt="Screen Shot 2022-06-26 at 6 22 19 PM" src="https://user-images.githubusercontent.com/100255000/175836050-b3117c10-fb53-4e37-a91e-4c6a349293ed.png">
+
+which as it shows its only 0.09% of 5 star reveiws among the votes. 
+
+On the other hand, Non-vine program reviews are 20612 5 star-reviews with 37840 total non-vine reveiws. Which is 54% of the whole un_paid reviews. 
+Which is significantly higher than the 5-star vine reviews (38%)
+
+I would say the Vine program is not worth of the fees paid for the pet product company that was analzied. 
 
